@@ -139,3 +139,5 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*pt.diff
 salida_before.txt
 salida_shadow.txt
+salida_before.txt
+salida_shadow.txt
